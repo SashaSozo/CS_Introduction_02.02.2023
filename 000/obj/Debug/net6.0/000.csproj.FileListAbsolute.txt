@@ -1,0 +1,15 @@
+C:\Users\Раб\Desktop\Учеба_2023\C#Introduction\000\obj\Debug\net6.0\000.csproj.AssemblyReference.cache
+C:\Users\Раб\Desktop\Учеба_2023\C#Introduction\000\obj\Debug\net6.0\000.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Раб\Desktop\Учеба_2023\C#Introduction\000\obj\Debug\net6.0\000.AssemblyInfoInputs.cache
+C:\Users\Раб\Desktop\Учеба_2023\C#Introduction\000\obj\Debug\net6.0\000.AssemblyInfo.cs
+C:\Users\Раб\Desktop\Учеба_2023\C#Introduction\000\obj\Debug\net6.0\000.csproj.CoreCompileInputs.cache
+C:\Users\Раб\Desktop\Учеба_2023\C#Introduction\000\bin\Debug\net6.0\000.exe
+C:\Users\Раб\Desktop\Учеба_2023\C#Introduction\000\bin\Debug\net6.0\000.deps.json
+C:\Users\Раб\Desktop\Учеба_2023\C#Introduction\000\bin\Debug\net6.0\000.runtimeconfig.json
+C:\Users\Раб\Desktop\Учеба_2023\C#Introduction\000\bin\Debug\net6.0\000.dll
+C:\Users\Раб\Desktop\Учеба_2023\C#Introduction\000\bin\Debug\net6.0\000.pdb
+C:\Users\Раб\Desktop\Учеба_2023\C#Introduction\000\obj\Debug\net6.0\000.dll
+C:\Users\Раб\Desktop\Учеба_2023\C#Introduction\000\obj\Debug\net6.0\refint\000.dll
+C:\Users\Раб\Desktop\Учеба_2023\C#Introduction\000\obj\Debug\net6.0\000.pdb
+C:\Users\Раб\Desktop\Учеба_2023\C#Introduction\000\obj\Debug\net6.0\000.genruntimeconfig.cache
+C:\Users\Раб\Desktop\Учеба_2023\C#Introduction\000\obj\Debug\net6.0\ref\000.dll
